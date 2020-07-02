@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720232919748",
+    "firebase_url": "https://base-904d9.firebaseio.com",
+    "project_id": "base-904d9",
+    "storage_bucket": "base-904d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720232919748:android:13c4e5dd46572fd2548f91",
+        "android_client_info": {
+          "package_name": "com.rizkynova.kidsmoviecharacter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720232919748-ap05hdads33uceddbfotua32nd47g0vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizkynova.kidsmoviecharacter",
+            "certificate_hash": "2998743bf844239e894f7d343cd8a3a3020ff804"
+          }
+        },
+        {
+          "client_id": "720232919748-5nue550hfqi31krmuehme79ef4hjpe64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7KAfK2coqBZHVRGgy_EVNowz2GHcx94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720232919748-5nue550hfqi31krmuehme79ef4hjpe64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
